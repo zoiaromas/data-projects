@@ -1,5 +1,4 @@
-# data-projects
-# Public Health & Economic Indicators Dashboard
+# Public Health & Economic Indicators Dashboard in RShiny
 
 ## Overview
 
