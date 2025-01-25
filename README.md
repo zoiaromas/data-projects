@@ -24,4 +24,3 @@ The dashboard allows users to explore trends, correlations, and regional distrib
 ## Notes
 
 - **Report Language:** The report and code comments are written in Polish.
-- **Current Focus:** The project is being translated into **Python** for better scalability and performance.
